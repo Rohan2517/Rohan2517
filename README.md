@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan2517
+- 👋 Hi, I’m @Rohan kumar
 - 👀 I’m interested in developement
 - 🌱 I’m currently learning cpp and web development
 - 💞️ I’m looking to collaborate on new projects
